@@ -1,0 +1,6 @@
+{
+  "name": "B.Tech Journey Tracker",
+  "description": "Comprehensive engineering companion featuring study timer, CGPA/SGPA tracker, semester subjects, DSA roadmap, AI study planner, code playground, and PDF notes repository.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
